@@ -22,7 +22,7 @@ main{
 
 /* Estilos de la seccion textBox*/
 .textBox{
-    margin-left: 135px;
+    margin-left: 100px;
 }
 
 .inputMensaje{
@@ -89,7 +89,7 @@ main{
     background-repeat: no-repeat;
     color: #0A3871;
     width: 100%;
-    margin-left: 70px;
+    margin-left: 40px;
     padding: 25px;
 }
 
@@ -115,7 +115,7 @@ main{
     cursor: pointer;
     height: 60px;
     width: 294px;
-    margin-left: 115px;
+    margin-left: 67px;
     position: absolute;
     bottom: 25px;
 }
